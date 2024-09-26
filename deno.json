@@ -1,0 +1,12 @@
+{
+  "name": "@romitkhanal/advent-2023",
+  "imports": {
+    "/": "./",
+    "./": "./"
+  },
+  "version": "0.1.0",
+  "tasks": {
+    "start": "deno run --allow-read",
+    "start:temp": "deno run --allow-read \"$0\""
+  }
+}
